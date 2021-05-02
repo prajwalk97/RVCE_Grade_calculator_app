@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="heading">RVCE_Grading_SYSTEM</string>
+    <string name="CIE">CIE_SCORE</string>
+    <string name="CIE_Score">CIE SCORE</string>
+    <string name="SEE_SCORE">SEE_SCORE</string>
+    <string name="SEE">SEE_SCORE</string>
+    <string name="submit">GRADE</string>
+    <string name="result" />
+</resources>
